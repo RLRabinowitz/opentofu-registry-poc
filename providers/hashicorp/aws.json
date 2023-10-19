@@ -1,0 +1,17 @@
+{
+  "versions": [{
+    "version": "v3.40.0",
+    "protocols": ["5.0"],
+    "shasum_url": "https://github.com/opentofu/terraform-provider-aws/releases/download/v3.40.0/terraform-provider-aws_3.40.0_SHA256SUMS",
+    "shasum_sig_url": "https://github.com/opentofu/terraform-provider-aws/releases/download/v3.40.0/terraform-provider-aws_3.40.0_SHA256SUMS.sig",
+    "repository": "",
+
+    "targets": [{
+      "os": "darwin",
+      "arch": "amd64",
+      "download_url": "https://github.com/opentofu/terraform-provider-aws/releases/download/v3.40.0/terraform-provider-aws_3.40.0_darwin_arm64.zip",
+      "file_name": "terraform-provider-aws_3.40.0_darwin_amd64.zip",
+      "shasum": "b7d15db34cc2f46ee2aaa6a71895e62de4c34dcc5d88536302bc44cb74b4caba"
+    }]
+  }]
+}
